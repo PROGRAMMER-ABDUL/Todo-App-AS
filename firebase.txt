@@ -1,0 +1,9 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyAyTAJgy0w6k8FuJknK-elAXwJNxiY6qD0",
+    authDomain: "todo-app--as.firebaseapp.com",
+    databaseURL: "https://todo-app--as-default-rtdb.firebaseio.com",
+    projectId: "todo-app--as",
+    storageBucket: "todo-app--as.appspot.com",
+    messagingSenderId: "916706921168",
+    appId: "1:916706921168:web:44b598fdb719d5192eacd5"
+  };
